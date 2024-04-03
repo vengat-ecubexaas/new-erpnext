@@ -1,2 +1,0 @@
-# qoala-erpnext
-erpnext code
