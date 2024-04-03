@@ -1,2 +1,2 @@
-# new-erpnext
+# qoala-erpnext
 erpnext code
